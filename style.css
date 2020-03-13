@@ -1,0 +1,15 @@
+.x-line {
+  outline: 1px solid black;
+}
+
+.big-img{
+  background-image: url("//placehold.it/600x400");
+  }
+
+  .ball{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    justify-content: center;
+    background-color:black;
+  }
