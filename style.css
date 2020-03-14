@@ -11,5 +11,9 @@
     width: 200px;
     border-radius: 50%;
     justify-content: center;
-    background-color:black;
+    background-color: white;
+  }
+
+  .x-down{
+    margin-bottom: 10vh;
   }
