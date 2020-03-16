@@ -1,3 +1,7 @@
+
+{$enable-gradients: true;
+}
+
 .x-line {
   outline: 1px solid black;
 }
@@ -5,6 +9,10 @@
 .big-img{
   background-image: url("//placehold.it/600x400");
   }
+
+.jd-img{
+  background-image: url("//www.deere.com/assets/images/common/home-page/March-2020-Hero-1366x347.jpg");
+}
 
   .ball{
     height: 200px;
